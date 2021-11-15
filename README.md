@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JoanaRafael
 -  I’m Veterinarian since 2018 
--  Currently I'm working on my Data Science Master Dissertation.
+-  Currently I'm working on my Data Science dissertation.
 -  Challenge me!
 
 
