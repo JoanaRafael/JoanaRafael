@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @JoanaRafael
--  I’m Veterinarian since 2018 
--  Currently I'm working on my Data Science dissertation.
+-  I’m Veterinarian and Data Scientist
 -  Challenge me!
 
 
